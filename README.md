@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**YauhenKazlouski/YauhenKazlouski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    
+    class IOSDeveloper {
+      var name: String
+      var lastName: String
+      var role: String
+      var languagesSpoken: [String]
+    
+      init() {
+        self.name = "Yauhen"
+        self.lastName = "Kazlouski"
+        self.role = "IOS Developer"
+        self.languagesSpoken = ["ru_BY", "en_US"]
+      }
 
-Here are some ideas to get you started:
+      func sayHi() {
+        print("Thank you for stopping by! I hope you liked my profile.")
+      }
+    }
+    
+    let me = IOSDeveloper()
+    me.sayHi()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
