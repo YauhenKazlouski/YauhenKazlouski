@@ -33,4 +33,5 @@ class IOSDeveloper {
 </p>
 
 ### About me
-Учусь в ЯндексПрактикуме на курсе IOSDeveloper. Очень нравятся 🐼, поэтому мечтаю побывать в китае и пожать ей лапу!
+I'm studying at Yandex Practicum on the IOS Developer course. I really like 🐼, so I dream of visiting China and shaking her paw!
+![Текст описания](https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/c0664da66a69bd189501da4b354af6a2ba9f5223/assets/github-snake.svg)
